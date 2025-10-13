@@ -1,2 +1,2 @@
 # python-learning-repo
-To store Python code form workshops
+To store Python code from workshops
